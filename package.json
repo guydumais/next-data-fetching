@@ -16,5 +16,9 @@
   "devDependencies": {
     "@types/react": "^17.0.14",
     "typescript": "^4.3.5"
+  },
+  "volta": {
+    "node": "16.20.0",
+    "yarn": "3.6.0-git.20230603.hash-3c8237cb"
   }
 }
